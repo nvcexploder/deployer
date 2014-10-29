@@ -1,0 +1,23 @@
+{
+  "name": "deployer",
+  "version": "0.0.0",
+  "description": "deploys node apps using ssh",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nvcexploder/deployer.git"
+  },
+  "keywords": [
+    "node.js",
+    "deploy",
+    "ssh"
+  ],
+  "author": "@nvcexploder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nvcexploder/deployer/issues"
+  }
+}
