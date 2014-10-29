@@ -19,5 +19,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nvcexploder/deployer/issues"
+  },
+  "dependencies": {
+    "jshint": "~2.5.7",
+    "precommit-hook": "~1.0.7"
   }
 }
